@@ -1,4 +1,4 @@
-[View html](https://github.com/James-Wooden/classification-in-python/Classification.html)
+[View html](Classification.html)
 
 This project uses multiple classification models to predict if a smart thermostat user will override the pre-programmed temperature setting.
 
